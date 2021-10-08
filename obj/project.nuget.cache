@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ajKa+zcqyZI2+GTCUKEbWnCakWnF/+WimkyAbrp9xiYQupUcUqeHDPxiuqKloHJctlENhEBT+jAxk0MoObqBvQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Alan\\Desktop\\C#\\Desafio_06_repositorio\\Desafio_06\\desafio6.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Alan\\.nuget\\packages\\csvhelper\\27.1.1\\csvhelper.27.1.1.nupkg.sha512"
+  ],
+  "logs": []
+}
